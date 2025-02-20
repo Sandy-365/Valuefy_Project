@@ -1,5 +1,5 @@
 
-# 🎵 Audio Transcriber App with AssemblyAI & Google Gemini Integration
+# 🎵 Audio Transcriber App with AssemblyAI & Google Gemini Integration [**5 min Video Walkthrough**](https://drive.google.com/file/d/1G7Ap977bM8aj_Q_84AniLOF-pPGeXX2t/view?usp=sharing)
 
 This Android app allows users to transcribe audio files using the AssemblyAI API and view key points and ToDo items. The app is built with **Java** and uses **Android Studio** for development.
 
