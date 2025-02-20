@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TRY1</string>
+    <string name="textview">1. Important point1\n2. Important point2\n3. Important point3\n4. Important point4</string>
+    <string name="todolist">10AM - 1PM Work\n1 PM - 2PM Lunch\n2 PM - 5PM meeting</string>
+</resources>
